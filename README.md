@@ -1,5 +1,5 @@
 # Principi-prezentacije-i-prepoznavanje-oblika
-Za zadatak deketovanja lica nad datim datasetom, odabrao sam Haar Cascade zbog svoje jednostavnosti brzine. Relativno kratkim kodom i nakon probavanja različitih parametara u metodi detectMultiScale došao sam do rešenja 
+Za zadatak deketovanja lica nad datim datasetom, odabrao sam Haar Cascade zbog svoje jednostavnosti i brzine. Relativno kratkim kodom i nakon probavanja različitih parametara u metodi detectMultiScale došao sam do rešenja 
 koje relativno preciyno detekciju lica na datim fotografijama.
 
 literatura:
